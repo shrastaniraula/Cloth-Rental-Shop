@@ -1,3 +1,3 @@
-1,Cop Costume Full Set,Cartmax,$15,16
-2,Formal Suite Full Set,Megaplex,$14,25
+1,Cop Costume Full Set,Cartmax,$15,12
+2,Formal Suite Full Set,Megaplex,$14,17
 3,Fairy Costume Full Set,DollarSmart,$18,55

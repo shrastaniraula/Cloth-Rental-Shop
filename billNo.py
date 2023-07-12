@@ -1,9 +1,8 @@
-from bill import out; 
 
 def readValue():
         '''This method is to extract the value from the text file "bill.txt" '''
 
-        file = open("bill.txt", "r")
+        file = open("billl.txt", "r")
 
         for lines in file:
                 lines = lines.replace("\n", "").strip()
